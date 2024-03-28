@@ -10,8 +10,8 @@ A simple WhatsApp User bot.
    - If you don't have an account on [Heroku](https://signup.heroku.com/), [create an account now](https://signup.heroku.com/).
    - If you don't have a GitHub account, [sign up](https://github.com/join) now.
    - [FORK](https://github.com/lyfe00011/whatsapp-bot-md/fork) this repository.
-   - Now [DEPLOY](#### Deploy to Heroku
-![Deploy](https://heroku.com/deploy?template=https://github.com/ReyyNada/whatsapp-bot-md)).
+   ### ***DEPLOY TO***
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/ReyyNada/whatsapp-bot-md"> <img src="https://img.shields.io/badge/Web%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 2. Deploy on Koyeb
    - Create an account on [Koyeb](https://app.koyeb.com/auth/signup). [Sign up now](https://app.koyeb.com/auth/signup).
